@@ -1,0 +1,123 @@
+
+h1 {
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 120px;
+    font-weight: normal;
+    border: 5px solid green;
+    background-color: aqua;
+    margin: 0px;
+    
+}
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/263/904/large_2x/white-abstract-background-backdrop-for-presentation-design-for-website-free-photo.jpg);
+}
+img.fondo {
+    position: relative;
+}
+div.presentacion {
+    position: absolute;
+    top: 350px;
+    left: 200px;
+    bottom: 20px;
+    border: 4px solid white;
+}
+div.finalizado {
+    border: 5px solid red;
+    text-align: center;
+    font-size: 25px;
+    background-color: red;
+    color: #fdffff;
+    border-radius: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: absolute;
+    
+
+}
+div.derecha {
+    position: relative;
+    left: 500px;
+    
+    
+}
+p.ancho {
+    width: 750px;
+
+}
+#titulo {
+    position: absolute;
+    top: 60%;
+    right: 40%;
+   color: #fdffff;
+   text-transform: capitalize;
+   font-size: 40px;
+    
+}
+div.imagen2 {
+    position: absolute;
+    bottom: -20px;
+    left: 210px;
+    border: 4px solid white;
+
+}
+div.sinopsis {
+    border: 4px solid white;
+    width: 750px;
+    box-shadow: 0px 0px 30px gray;
+    background-color: #EBF1F5;
+}
+span.accion {
+    background-color: #C6E2F7;
+    border-radius: 18px;
+    color: #0F8DFD;
+    padding: 6px;
+}
+span.misterio {
+    background-color: #C6E2F7;
+    border-radius: 18px;
+    color: #0F8DFD;
+    padding: 6px;
+}
+span.shonen {
+    background-color: #C6E2F7;
+    border-radius: 18px;
+    color: #0F8DFD;
+    padding: 6px;
+}
+span.terror {
+    background-color: #C6E2F7;
+    border-radius: 18px;
+    color: #0F8DFD;
+    padding: 6px;
+}
+h2.listas {
+    text-transform: uppercase;
+    background-color: #EBF1F5;
+    box-shadow: 0px 0px 30px gray;
+    width: 750px;
+    text-align: center;
+}
+table.tabla1, table.tabla2 {
+    width: 750px;
+    background-color: #EBF1F5;
+    box-shadow:0px 0px 30px gray ;
+
+}
+th, td  {
+    border-bottom: 2px solid black;
+    
+}
+h3 {
+    width: 750px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    border-bottom: 2px solid black;
+}
+tr:hover {
+    background-color: aquamarine;
+}
+tr:visited {
+    background-color: azure;
+}
